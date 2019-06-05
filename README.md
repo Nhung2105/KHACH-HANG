@@ -1,4 +1,4 @@
-# KHACH-HANG
+# QUAN LY TUA SACH
 package Process;
 
 import Connect.*;
